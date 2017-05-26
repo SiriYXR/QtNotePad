@@ -1,4 +1,19 @@
 <RCC>
-    <qresource prefix="QtNotePad">
+    <qresource prefix="/Picture">
+        <file alias="Open">data/Picture/open.png</file>
+        <file alias="Save">data/Picture/save.png</file>
+        <file alias="SaveAs">data/Picture/saveas.png</file>
+        <file alias="Color">data/Picture/color_palette.png</file>
+        <file alias="Font">data/Picture/Font.png</file>
+        <file alias="Newfile">data/Picture/newfile.png</file>
+        <file alias="Time">data/Picture/time.png</file>
+        <file alias="Close">data/Picture/close.png</file>
+        <file alias="About">data/Picture/about.png</file>
+        <file alias="Copy">data/Picture/copy.png</file>
+        <file alias="Cut">data/Picture/cut.png</file>
+        <file alias="Paste">data/Picture/paste.png</file>
+        <file alias="QtNotePad">data/Picture/QtNotePad_icon.png</file>
+        <file alias="Redo">data/Picture/redu.png</file>
+        <file alias="Undo">data/Picture/undo.png</file>
     </qresource>
 </RCC>

@@ -116,7 +116,8 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GeneratedFiles\ui_qtnotepad.h" />
+    <ClInclude Include="ui_about.h" />
+    <ClInclude Include="ui_QtNotePad.h" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="qtnotepad.qrc">
